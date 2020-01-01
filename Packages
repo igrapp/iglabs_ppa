@@ -1,0 +1,16 @@
+Package: iglabs-backup
+Version: 1.0-1
+Architecture: amd64
+Maintainer: igor <igor@verizon.net>
+Installed-Size: 44
+Filename: ./iglabs-backup_1.0-1_amd64.deb
+Size: 8296
+MD5sum: ca297fdf9c2352dcc9828c37b7883576
+SHA1: 96283ae143fc2a4489d4bcb7d3d2ce83ac12bbe6
+SHA256: 9d6b013cc0c772ba66923fd6cd6074326df2e3c75960b91837207b36b54330df
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
